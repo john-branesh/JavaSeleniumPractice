@@ -10,7 +10,7 @@ public class ButtonPractice {
         WebDriver driver = new FirefoxDriver();
         driver.get("https://letcode.in/button");
 
-        //Goto Home and come back here using driver command
+        //Goto Home and come back here using driver commandol
         WebElement HomeButton = driver.findElement(By.id("home"));
             HomeButton.click();
             driver.navigate().back();

@@ -64,6 +64,8 @@
       <root url="jar://$USER_HOME$/selenium-java-4.9.0/lib/auto-common-1.2.1.jar!/" />
       <root url="jar://$USER_HOME$/selenium-java-4.9.0/lib/async-http-client-netty-utils-2.12.3.jar!/" />
       <root url="jar://$USER_HOME$/selenium-java-4.9.0/lib/async-http-client-2.12.3.jar!/" />
+      <root url="jar://$USER_HOME$/commons-io-2.18.0/commons-io-2.18.0.jar!/" />
+      <root url="jar://$USER_HOME$/commons-io-2.18.0/commons-io-2.18.0-tests.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
@@ -83,6 +85,8 @@
       <root url="jar://$USER_HOME$/selenium-java-4.9.0/selenium-chromium-driver-4.9.0-sources.jar!/" />
       <root url="jar://$USER_HOME$/selenium-java-4.9.0/selenium-chrome-driver-4.9.0-sources.jar!/" />
       <root url="jar://$USER_HOME$/selenium-java-4.9.0/selenium-api-4.9.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/commons-io-2.18.0/commons-io-2.18.0-test-sources.jar!/" />
+      <root url="jar://$USER_HOME$/commons-io-2.18.0/commons-io-2.18.0-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

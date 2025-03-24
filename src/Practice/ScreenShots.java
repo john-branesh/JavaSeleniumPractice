@@ -3,8 +3,10 @@ package Practice;
 import org.openqa.selenium.*;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.io.FileHandler;
+import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.FluentWait;
 import org.openqa.selenium.support.ui.Wait;
+import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.io.File;
 import java.io.IOException;
@@ -16,6 +18,10 @@ public class ScreenShots {
         System.setProperty("webdriver.gecko.driver", "/Users/johragup/geckodriver");
         WebDriver driver = new FirefoxDriver();
         driver.get("https://www.amazon.com/");
+
+        //explicit wait
+        WebDriverWait stop = new WebDriverWait(driver, Duration.ofSeconds(20));
+        stop.until(ExpectedConditions.elementToBeClickable( By.xpath("//*[@id=\'nav-logo-sprites\']")));
 
         //fluent wait
         Wait<WebDriver> fluentWait = new FluentWait<>(driver).withTimeout(Duration.ofSeconds(2)).pollingEvery(Duration.ofSeconds(2))

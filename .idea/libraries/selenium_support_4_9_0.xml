@@ -64,8 +64,44 @@
       <root url="jar://$USER_HOME$/selenium-java-4.9.0/lib/auto-common-1.2.1.jar!/" />
       <root url="jar://$USER_HOME$/selenium-java-4.9.0/lib/async-http-client-netty-utils-2.12.3.jar!/" />
       <root url="jar://$USER_HOME$/selenium-java-4.9.0/lib/async-http-client-2.12.3.jar!/" />
-      <root url="jar://$USER_HOME$/commons-io-2.18.0/commons-io-2.18.0.jar!/" />
-      <root url="jar://$USER_HOME$/commons-io-2.18.0/commons-io-2.18.0-tests.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Artifacts/Selenium/selenium-java-4/auto-service-annotations-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Artifacts/Selenium/selenium-java-4/byte-buddy-1.17.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Artifacts/Selenium/selenium-java-4/commons-exec-1.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Artifacts/Selenium/selenium-java-4/error_prone_annotations-2.36.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Artifacts/Selenium/selenium-java-4/failureaccess-1.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Artifacts/Selenium/selenium-java-4/guava-33.4.5-jre.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Artifacts/Selenium/selenium-java-4/j2objc-annotations-3.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Artifacts/Selenium/selenium-java-4/jspecify-1.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Artifacts/Selenium/selenium-java-4/opentelemetry-api-1.48.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Artifacts/Selenium/selenium-java-4/opentelemetry-api-incubator-1.46.0-alpha.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Artifacts/Selenium/selenium-java-4/opentelemetry-context-1.48.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Artifacts/Selenium/selenium-java-4/opentelemetry-exporter-logging-1.48.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Artifacts/Selenium/selenium-java-4/opentelemetry-sdk-1.48.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Artifacts/Selenium/selenium-java-4/opentelemetry-sdk-common-1.48.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Artifacts/Selenium/selenium-java-4/opentelemetry-sdk-extension-autoconfigure-1.48.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Artifacts/Selenium/selenium-java-4/opentelemetry-sdk-extension-autoconfigure-spi-1.48.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Artifacts/Selenium/selenium-java-4/opentelemetry-sdk-logs-1.46.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Artifacts/Selenium/selenium-java-4/opentelemetry-sdk-metrics-1.46.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Artifacts/Selenium/selenium-java-4/opentelemetry-sdk-trace-1.48.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Artifacts/Selenium/selenium-java-4/selenium-api-4.30.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Artifacts/Selenium/selenium-java-4/selenium-chrome-driver-4.30.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Artifacts/Selenium/selenium-java-4/selenium-chromium-driver-4.30.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Artifacts/Selenium/selenium-java-4/selenium-devtools-v132-4.30.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Artifacts/Selenium/selenium-java-4/selenium-devtools-v133-4.30.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Artifacts/Selenium/selenium-java-4/selenium-devtools-v134-4.30.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Artifacts/Selenium/selenium-java-4/selenium-edge-driver-4.30.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Artifacts/Selenium/selenium-java-4/selenium-firefox-driver-4.30.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Artifacts/Selenium/selenium-java-4/selenium-http-4.30.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Artifacts/Selenium/selenium-java-4/selenium-ie-driver-4.30.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Artifacts/Selenium/selenium-java-4/selenium-java-4.30.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Artifacts/Selenium/selenium-java-4/selenium-json-4.30.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Artifacts/Selenium/selenium-java-4/selenium-manager-4.30.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Artifacts/Selenium/selenium-java-4/selenium-os-4.30.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Artifacts/Selenium/selenium-java-4/selenium-remote-driver-4.30.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Artifacts/Selenium/selenium-java-4/selenium-safari-driver-4.30.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Artifacts/Selenium/selenium-java-4/selenium-support-4.30.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Artifacts/apacheio/commons-io-2.18.0/commons-io-2.18.0-tests.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Artifacts/apacheio/commons-io-2.18.0/commons-io-2.18.0.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
@@ -87,6 +123,10 @@
       <root url="jar://$USER_HOME$/selenium-java-4.9.0/selenium-api-4.9.0-sources.jar!/" />
       <root url="jar://$USER_HOME$/commons-io-2.18.0/commons-io-2.18.0-test-sources.jar!/" />
       <root url="jar://$USER_HOME$/commons-io-2.18.0/commons-io-2.18.0-sources.jar!/" />
+      <root url="file://$PROJECT_DIR$/../Artifacts/Selenium/selenium-java-4" />
+      <root url="jar://$PROJECT_DIR$/../Artifacts/apacheio/commons-io-2.18.0/commons-io-2.18.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Artifacts/apacheio/commons-io-2.18.0/commons-io-2.18.0-test-sources.jar!/" />
     </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../Artifacts/Selenium/selenium-java-4" recursive="false" type="SOURCES" />
   </library>
 </component>

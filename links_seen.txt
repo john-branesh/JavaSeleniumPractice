@@ -1,0 +1,1528 @@
+Number of links available are 763
+
+link text: 
+Link url: https://www.w3schools.com
+link text: Tutorials
+Link url: javascript:void(0)
+link text: Exercises
+Link url: javascript:void(0)
+link text: Certificates
+Link url: javascript:void(0)
+link text: Services
+Link url: javascript:void(0)
+link text: 
+Link url: javascript:void(0)
+link text: 
+Link url: javascript:void(0);
+link text: Log in
+Link url: https://profile.w3schools.com/log-in?redirect_url=https%3A%2F%2Fwww.w3schools.com%2Fhtml%2Fhtml_tables.asp
+link text: Sign Up
+Link url: https://profile.w3schools.com/sign-up?redirect_url=https%3A%2F%2Fwww.w3schools.com%2Fhtml%2Fhtml_tables.asp
+link text: 
+Link url: https://profile.w3schools.com/log-in?redirect_url=https%3A%2F%2Fwww.w3schools.com%2Fhtml%2Fhtml_tables.asp
+link text: Get Certified
+Link url: https://campus.w3schools.com/collections/course-catalog
+link text: For Teachers
+Link url: /academy/index.php
+link text: 
+Link url: /spaces/index.php
+link text: 
+Link url: /plus/index.php
+link text: 
+Link url: https://campus.w3schools.com/collections/course-catalog
+link text: 
+Link url: /academy/index.php
+link text: 
+Link url: https://spaces.w3schools.com/space/
+link text: 
+Link url: /plus/index.php
+link text: 
+Link url: https://pathfinder.w3schools.com
+link text: 
+Link url: /spaces/index.php
+link text: 
+Link url: https://campus.w3schools.com/collections/course-catalog
+link text: 
+Link url: /plus/index.php
+link text: 
+Link url: /academy/index.php
+link text: 
+Link url: https://profile.w3schools.com/logout
+link text: 
+Link url: https://www.youtube.com/@w3schools
+link text: 
+Link url: https://www.linkedin.com/company/w3schools.com/
+link text: 
+Link url: https://discord.com/invite/w3schools
+link text: 
+Link url: https://www.facebook.com/w3schoolscom/
+link text: 
+Link url: https://www.instagram.com/w3schools.com_official/
+link text: 
+Link url: /html/default.asp
+link text: 
+Link url: /html/default.asp
+link text: 
+Link url: /tags/default.asp
+link text: 
+Link url: /css/default.asp
+link text: 
+Link url: /css/default.asp
+link text: 
+Link url: /cssref/default.asp
+link text: 
+Link url: /css/css_rwd_intro.asp
+link text: 
+Link url: /css/css_rwd_intro.asp
+link text: 
+Link url: /bootstrap/bootstrap_ver.asp
+link text: 
+Link url: /bootstrap/bootstrap_ver.asp
+link text: 
+Link url: /w3css/default.asp
+link text: 
+Link url: /w3css/default.asp
+link text: 
+Link url: /w3css/w3css_references.asp
+link text: 
+Link url: /sass/default.php
+link text: 
+Link url: /sass/default.php
+link text: 
+Link url: /sass/sass_functions_string.php
+link text: 
+Link url: /colors/default.asp
+link text: 
+Link url: /colors/default.asp
+link text: 
+Link url: /colors/colors_fs595.asp
+link text: 
+Link url: /icons/default.asp
+link text: 
+Link url: /icons/default.asp
+link text: 
+Link url: /icons/icons_reference.asp
+link text: 
+Link url: /graphics/svg_intro.asp
+link text: 
+Link url: /graphics/svg_intro.asp
+link text: 
+Link url: /graphics/svg_reference.asp
+link text: 
+Link url: /graphics/canvas_intro.asp
+link text: 
+Link url: /graphics/canvas_intro.asp
+link text: 
+Link url: /graphics/canvas_reference.asp
+link text: 
+Link url: /graphics/default.asp
+link text: 
+Link url: /graphics/default.asp
+link text: 
+Link url: /charsets/default.asp
+link text: 
+Link url: /charsets/default.asp
+link text: 
+Link url: /howto/default.asp
+link text: 
+Link url: /howto/default.asp
+link text: 
+Link url: /ai/default.asp
+link text: 
+Link url: /ai/default.asp
+link text: 
+Link url: /gen_ai/index.php
+link text: 
+Link url: /gen_ai/index.php
+link text: 
+Link url: /gen_ai/chatgpt-3-5/index.php
+link text: 
+Link url: /gen_ai/chatgpt-3-5/index.php
+link text: 
+Link url: /gen_ai/chatgpt-4/index.php
+link text: 
+Link url: /gen_ai/chatgpt-4/index.php
+link text: 
+Link url: /gen_ai/bard/index.php
+link text: 
+Link url: /gen_ai/bard/index.php
+link text: 
+Link url: /python/python_ml_getting_started.asp
+link text: 
+Link url: /python/python_ml_getting_started.asp
+link text: 
+Link url: /dsa/index.php
+link text: 
+Link url: /dsa/index.php
+link text: 
+Link url: /datascience/default.asp
+link text: 
+Link url: /datascience/default.asp
+link text: 
+Link url: /python/numpy/default.asp
+link text: 
+Link url: /python/numpy/default.asp
+link text: 
+Link url: /python/pandas/default.asp
+link text: 
+Link url: /python/pandas/default.asp
+link text: 
+Link url: /python/scipy/index.php
+link text: 
+Link url: /python/scipy/index.php
+link text: 
+Link url: /python/matplotlib_intro.asp
+link text: 
+Link url: /python/matplotlib_intro.asp
+link text: 
+Link url: /statistics/index.php
+link text: 
+Link url: /statistics/index.php
+link text: 
+Link url: /excel/index.php
+link text: 
+Link url: /excel/index.php
+link text: 
+Link url: /googlesheets/index.php
+link text: 
+Link url: /googlesheets/index.php
+link text: 
+Link url: /spaces/index.php
+link text: 
+Link url: /spaces/index.php
+link text: 
+Link url: /where_to_start.asp
+link text: 
+Link url: /w3css/w3css_templates.asp
+link text: 
+Link url: /browsers/default.asp
+link text: 
+Link url: https://campus.w3schools.com
+link text: 
+Link url: /whatis/default.asp
+link text: 
+Link url: /programming/index.php
+link text: 
+Link url: /tryit/default.asp
+link text: 
+Link url: /typingspeed/default.asp
+link text: 
+Link url: /codegame/index.html
+link text: 
+Link url: /cybersecurity/index.php
+link text: 
+Link url: /accessibility/index.php
+link text: 
+Link url: https://campus.w3schools.com/pages/newsletter
+link text: 
+Link url: /js/default.asp
+link text: 
+Link url: /js/default.asp
+link text: 
+Link url: /jsref/default.asp
+link text: 
+Link url: /react/default.asp
+link text: 
+Link url: /react/default.asp
+link text: 
+Link url: /jquery/default.asp
+link text: 
+Link url: /jquery/default.asp
+link text: 
+Link url: /jquery/jquery_ref_overview.asp
+link text: 
+Link url: /vue/index.php
+link text: 
+Link url: /vue/index.php
+link text: 
+Link url: /vue/vue_ref_builtin-attributes.php
+link text: 
+Link url: /angular/default.asp
+link text: 
+Link url: /angular/default.asp
+link text: 
+Link url: /angular/angular_ref_directives.asp
+link text: 
+Link url: /js/js_json_intro.asp
+link text: 
+Link url: /js/js_json_intro.asp
+link text: 
+Link url: /jsref/jsref_obj_json.asp
+link text: 
+Link url: /js/js_ajax_intro.asp
+link text: 
+Link url: /js/js_ajax_intro.asp
+link text: 
+Link url: /appml/default.asp
+link text: 
+Link url: /appml/default.asp
+link text: 
+Link url: /appml/appml_reference.asp
+link text: 
+Link url: /w3js/default.asp
+link text: 
+Link url: /w3js/default.asp
+link text: 
+Link url: /w3js/w3js_references.asp
+link text: 
+Link url: /spaces/index.php
+link text: 
+Link url: /spaces/index.php
+link text: 
+Link url: /where_to_start.asp
+link text: 
+Link url: /w3css/w3css_templates.asp
+link text: 
+Link url: /browsers/default.asp
+link text: 
+Link url: https://campus.w3schools.com
+link text: 
+Link url: /whatis/default.asp
+link text: 
+Link url: /programming/index.php
+link text: 
+Link url: /tryit/default.asp
+link text: 
+Link url: /typingspeed/default.asp
+link text: 
+Link url: /codegame/index.html
+link text: 
+Link url: /cybersecurity/index.php
+link text: 
+Link url: /accessibility/index.php
+link text: 
+Link url: https://campus.w3schools.com/pages/newsletter
+link text: 
+Link url: /python/default.asp
+link text: 
+Link url: /python/default.asp
+link text: 
+Link url: /python/python_reference.asp
+link text: 
+Link url: /sql/default.asp
+link text: 
+Link url: /sql/default.asp
+link text: 
+Link url: /sql/sql_ref_keywords.asp
+link text: 
+Link url: /mysql/default.asp
+link text: 
+Link url: /mysql/default.asp
+link text: 
+Link url: /mysql/mysql_datatypes.asp
+link text: 
+Link url: /php/default.asp
+link text: 
+Link url: /php/default.asp
+link text: 
+Link url: /php/php_ref_overview.asp
+link text: 
+Link url: /java/default.asp
+link text: 
+Link url: /java/default.asp
+link text: 
+Link url: /java/java_ref_reference.asp
+link text: 
+Link url: /c/index.php
+link text: 
+Link url: /c/index.php
+link text: 
+Link url: /c/c_ref_reference.php
+link text: 
+Link url: /cpp/default.asp
+link text: 
+Link url: /cpp/default.asp
+link text: 
+Link url: /cpp/cpp_ref_reference.asp
+link text: 
+Link url: /cs/index.php
+link text: 
+Link url: /cs/index.php
+link text: 
+Link url: /r/default.asp
+link text: 
+Link url: /r/default.asp
+link text: 
+Link url: /kotlin/index.php
+link text: 
+Link url: /kotlin/index.php
+link text: 
+Link url: /go/index.php
+link text: 
+Link url: /go/index.php
+link text: 
+Link url: /django/index.php
+link text: 
+Link url: /django/index.php
+link text: 
+Link url: /django/django_ref_template_tags.php
+link text: 
+Link url: /postgresql/index.php
+link text: 
+Link url: /postgresql/index.php
+link text: 
+Link url: /typescript/index.php
+link text: 
+Link url: /typescript/index.php
+link text: 
+Link url: /asp/default.asp
+link text: 
+Link url: /asp/default.asp
+link text: 
+Link url: /asp/asp_ref_vbscript_functions.asp
+link text: 
+Link url: /nodejs/default.asp
+link text: 
+Link url: /nodejs/default.asp
+link text: 
+Link url: /nodejs/ref_modules.asp
+link text: 
+Link url: /nodejs/nodejs_raspberrypi.asp
+link text: 
+Link url: /nodejs/nodejs_raspberrypi.asp
+link text: 
+Link url: /git/default.asp
+link text: 
+Link url: /git/default.asp
+link text: 
+Link url: /mongodb/index.php
+link text: 
+Link url: /mongodb/index.php
+link text: 
+Link url: /xml/default.asp
+link text: 
+Link url: /xml/default.asp
+link text: 
+Link url: /xml/dom_nodetype.asp
+link text: 
+Link url: /ai/default.asp
+link text: 
+Link url: /ai/default.asp
+link text: 
+Link url: /gen_ai/index.php
+link text: 
+Link url: /gen_ai/index.php
+link text: 
+Link url: /gen_ai/chatgpt-3-5/index.php
+link text: 
+Link url: /gen_ai/chatgpt-3-5/index.php
+link text: 
+Link url: /gen_ai/chatgpt-4/index.php
+link text: 
+Link url: /gen_ai/chatgpt-4/index.php
+link text: 
+Link url: /gen_ai/bard/index.php
+link text: 
+Link url: /gen_ai/bard/index.php
+link text: 
+Link url: /python/python_ml_getting_started.asp
+link text: 
+Link url: /python/python_ml_getting_started.asp
+link text: 
+Link url: /dsa/index.php
+link text: 
+Link url: /dsa/index.php
+link text: 
+Link url: /datascience/default.asp
+link text: 
+Link url: /datascience/default.asp
+link text: 
+Link url: /python/numpy/default.asp
+link text: 
+Link url: /python/numpy/default.asp
+link text: 
+Link url: /python/pandas/default.asp
+link text: 
+Link url: /python/pandas/default.asp
+link text: 
+Link url: /python/scipy/index.php
+link text: 
+Link url: /python/scipy/index.php
+link text: 
+Link url: /python/matplotlib_intro.asp
+link text: 
+Link url: /python/matplotlib_intro.asp
+link text: 
+Link url: /statistics/index.php
+link text: 
+Link url: /statistics/index.php
+link text: 
+Link url: /excel/index.php
+link text: 
+Link url: /excel/index.php
+link text: 
+Link url: /googlesheets/index.php
+link text: 
+Link url: /googlesheets/index.php
+link text: 
+Link url: /spaces/index.php
+link text: 
+Link url: /spaces/index.php
+link text: 
+Link url: /where_to_start.asp
+link text: 
+Link url: /w3css/w3css_templates.asp
+link text: 
+Link url: /browsers/default.asp
+link text: 
+Link url: https://campus.w3schools.com
+link text: 
+Link url: /whatis/default.asp
+link text: 
+Link url: /programming/index.php
+link text: 
+Link url: /tryit/default.asp
+link text: 
+Link url: /typingspeed/default.asp
+link text: 
+Link url: /codegame/index.html
+link text: 
+Link url: /cybersecurity/index.php
+link text: 
+Link url: /accessibility/index.php
+link text: 
+Link url: https://campus.w3schools.com/pages/newsletter
+link text: 
+Link url: /html/html_exercises.asp
+link text: 
+Link url: /html/html_exercises.asp
+link text: 
+Link url: /html/html_quiz.asp
+link text: 
+Link url: /css/css_exercises.asp
+link text: 
+Link url: /css/css_exercises.asp
+link text: 
+Link url: /css/css_quiz.asp
+link text: 
+Link url: /bootstrap/bootstrap_exercises.asp
+link text: 
+Link url: /bootstrap/bootstrap_exercises.asp
+link text: 
+Link url: /bootstrap/bootstrap_quiz.asp
+link text: 
+Link url: /bootstrap4/bootstrap_exercises.asp
+link text: 
+Link url: /bootstrap4/bootstrap_exercises.asp
+link text: 
+Link url: /bootstrap4/bootstrap_quiz.asp
+link text: 
+Link url: /bootstrap5/bootstrap_exercises.php
+link text: 
+Link url: /bootstrap5/bootstrap_exercises.php
+link text: 
+Link url: /bootstrap5/bootstrap_quiz.php
+link text: 
+Link url: /dsa/dsa_exercises.php
+link text: 
+Link url: /dsa/dsa_exercises.php
+link text: 
+Link url: /dsa/dsa_quiz.php
+link text: 
+Link url: /python/numpy/numpy_exercises.asp
+link text: 
+Link url: /python/numpy/numpy_exercises.asp
+link text: 
+Link url: /python/numpy/numpy_quiz.asp
+link text: 
+Link url: /python/pandas/pandas_exercises.asp
+link text: 
+Link url: /python/pandas/pandas_exercises.asp
+link text: 
+Link url: /python/pandas/pandas_quiz.asp
+link text: 
+Link url: /python/scipy/scipy_exercises.php
+link text: 
+Link url: /python/scipy/scipy_exercises.php
+link text: 
+Link url: /python/scipy/scipy_quiz.php
+link text: 
+Link url: /excel/excel_exercises.php
+link text: 
+Link url: /excel/excel_exercises.php
+link text: 
+Link url: /exercises/index.php
+link text: 
+Link url: /quiztest/default.asp
+link text: 
+Link url: /js/js_exercises.asp
+link text: 
+Link url: /js/js_exercises.asp
+link text: 
+Link url: /js/js_quiz.asp
+link text: 
+Link url: /react/react_exercises.asp
+link text: 
+Link url: /react/react_exercises.asp
+link text: 
+Link url: /react/react_quiz.asp
+link text: 
+Link url: /jquery/jquery_exercises.asp
+link text: 
+Link url: /jquery/jquery_exercises.asp
+link text: 
+Link url: /jquery/jquery_quiz.asp
+link text: 
+Link url: /vue/vue_exercises.php
+link text: 
+Link url: /vue/vue_exercises.php
+link text: 
+Link url: /vue/vue_quiz.php
+link text: 
+Link url: /python/python_exercises.asp
+link text: 
+Link url: /python/python_exercises.asp
+link text: 
+Link url: /python/python_quiz.asp
+link text: 
+Link url: /sql/sql_exercises.asp
+link text: 
+Link url: /sql/sql_exercises.asp
+link text: 
+Link url: /sql/sql_quiz.asp
+link text: 
+Link url: /mysql/mysql_exercises.asp
+link text: 
+Link url: /mysql/mysql_exercises.asp
+link text: 
+Link url: /mysql/mysql_quiz.asp
+link text: 
+Link url: /php/php_exercises.asp
+link text: 
+Link url: /php/php_exercises.asp
+link text: 
+Link url: /php/php_quiz.asp
+link text: 
+Link url: /java/java_exercises.asp
+link text: 
+Link url: /java/java_exercises.asp
+link text: 
+Link url: /java/java_quiz.asp
+link text: 
+Link url: /c/c_exercises.php
+link text: 
+Link url: /c/c_exercises.php
+link text: 
+Link url: /c/c_quiz.php
+link text: 
+Link url: /cpp/cpp_exercises.asp
+link text: 
+Link url: /cpp/cpp_exercises.asp
+link text: 
+Link url: /cpp/cpp_quiz.asp
+link text: 
+Link url: /cs/cs_exercises.php
+link text: 
+Link url: /cs/cs_exercises.php
+link text: 
+Link url: /cs/cs_quiz.php
+link text: 
+Link url: /r/r_exercises.asp
+link text: 
+Link url: /r/r_exercises.asp
+link text: 
+Link url: /r/r_quiz.asp
+link text: 
+Link url: /kotlin/kotlin_exercises.php
+link text: 
+Link url: /kotlin/kotlin_exercises.php
+link text: 
+Link url: /kotlin/kotlin_quiz.php
+link text: 
+Link url: /django/django_exercises.php
+link text: 
+Link url: /django/django_exercises.php
+link text: 
+Link url: /django/django_quiz.php
+link text: 
+Link url: /postgresql/postgresql_exercises.php
+link text: 
+Link url: /postgresql/postgresql_exercises.php
+link text: 
+Link url: /postgresql/postgresql_quiz.php
+link text: 
+Link url: /typescript/typescript_exercises.php
+link text: 
+Link url: /typescript/typescript_exercises.php
+link text: 
+Link url: /typescript/typescript_quiz.php
+link text: 
+Link url: /git/git_exercises.asp
+link text: 
+Link url: /git/git_exercises.asp
+link text: 
+Link url: /git/git_quiz.asp
+link text: 
+Link url: /go/go_exercises.php
+link text: 
+Link url: /go/go_exercises.php
+link text: 
+Link url: /mongodb/mongodb_exercises.php
+link text: 
+Link url: /mongodb/mongodb_exercises.php
+link text: 
+Link url: /dsa/dsa_exercises.php
+link text: 
+Link url: /dsa/dsa_exercises.php
+link text: 
+Link url: /dsa/dsa_quiz.php
+link text: 
+Link url: /python/numpy/numpy_exercises.asp
+link text: 
+Link url: /python/numpy/numpy_exercises.asp
+link text: 
+Link url: /python/numpy/numpy_quiz.asp
+link text: 
+Link url: /python/pandas/pandas_exercises.asp
+link text: 
+Link url: /python/pandas/pandas_exercises.asp
+link text: 
+Link url: /python/pandas/pandas_quiz.asp
+link text: 
+Link url: /python/scipy/scipy_exercises.php
+link text: 
+Link url: /python/scipy/scipy_exercises.php
+link text: 
+Link url: /python/scipy/scipy_quiz.php
+link text: 
+Link url: /excel/excel_exercises.php
+link text: 
+Link url: /excel/excel_exercises.php
+link text: 
+Link url: /exercises/index.php
+link text: 
+Link url: /quiztest/default.asp
+link text: 
+Link url: https://campus.w3schools.com/collections/certifications/products/html-certificate
+link text: 
+Link url: https://campus.w3schools.com/collections/certifications/products/html-certificate
+link text: 
+Link url: https://campus.w3schools.com/collections/course-catalog/products/html-course
+link text: 
+Link url: https://campus.w3schools.com/collections/certifications/products/css-certificate
+link text: 
+Link url: https://campus.w3schools.com/collections/certifications/products/css-certificate
+link text: 
+Link url: https://campus.w3schools.com/collections/course-catalog/products/css-course
+link text: 
+Link url: https://campus.w3schools.com/collections/certifications/products/bootstrap-3-certificate
+link text: 
+Link url: https://campus.w3schools.com/collections/certifications/products/bootstrap-3-certificate
+link text: 
+Link url: https://campus.w3schools.com/collections/single-courses/products/bootstrap-course
+link text: 
+Link url: https://campus.w3schools.com/collections/certifications/products/bootstrap-4-certificate
+link text: 
+Link url: https://campus.w3schools.com/collections/certifications/products/bootstrap-4-certificate
+link text: 
+Link url: https://campus.w3schools.com/collections/single-courses/products/bootstrap-4-course
+link text: 
+Link url: https://campus.w3schools.com/collections/certifications/products/bootstrap-5-certificate
+link text: 
+Link url: https://campus.w3schools.com/collections/certifications/products/bootstrap-5-certificate
+link text: 
+Link url: https://campus.w3schools.com/products/dsa-certification-exam
+link text: 
+Link url: https://campus.w3schools.com/products/dsa-certification-exam
+link text: 
+Link url: https://campus.w3schools.com/products/data-analytics-program
+link text: 
+Link url: https://campus.w3schools.com/products/data-analytics-program
+link text: 
+Link url: https://campus.w3schools.com/products/numpy-certification-exam
+link text: 
+Link url: https://campus.w3schools.com/products/numpy-certification-exam
+link text: 
+Link url: https://campus.w3schools.com/products/numpy-course
+link text: 
+Link url: https://campus.w3schools.com/products/pandas-certification-exam
+link text: 
+Link url: https://campus.w3schools.com/products/pandas-certification-exam
+link text: 
+Link url: https://campus.w3schools.com/products/pandas-course
+link text: 
+Link url: https://campus.w3schools.com/products/excel-certificate
+link text: 
+Link url: https://campus.w3schools.com/products/excel-certificate
+link text: 
+Link url: https://campus.w3schools.com/collections/course-best-sellers/products/social-media-marketing-course
+link text: 
+Link url: https://campus.w3schools.com/collections/course-best-sellers/products/social-media-marketing-course
+link text: 
+Link url: https://campus.w3schools.com
+link text: 
+Link url: https://campus.w3schools.com/collections/course-catalog/products/w3schools-full-access-course
+link text: 
+Link url: https://campus.w3schools.com/collections/certifications/products/front-end-course
+link text: 
+Link url: https://campus.w3schools.com/collections/certifications/products/front-end-certificate
+link text: 
+Link url: https://campus.w3schools.com/collections/course-catalog/products/front-end-course
+link text: 
+Link url: https://campus.w3schools.com/collections/certifications/products/modern-web-development-certification
+link text: 
+Link url: https://campus.w3schools.com/collections/certifications/products/modern-web-development-certification
+link text: 
+Link url: https://campus.w3schools.com/collections/course-best-sellers/products/learn-modern-web-development
+link text: 
+Link url: https://campus.w3schools.com/collections/certifications/products/web-application-development-certificates
+link text: 
+Link url: https://campus.w3schools.com/collections/certifications/products/web-application-development-certificates
+link text: 
+Link url: https://campus.w3schools.com/collections/course-best-sellers/products/web-application-development-course
+link text: 
+Link url: https://campus.w3schools.com/collections/certifications/products/web-design-certification
+link text: 
+Link url: https://campus.w3schools.com/collections/certifications/products/web-design-certification
+link text: 
+Link url: https://campus.w3schools.com/collections/course-best-sellers/products/learn-web-design
+link text: 
+Link url: https://campus.w3schools.com/collections/certifications/products/javascript-certificate
+link text: 
+Link url: https://campus.w3schools.com/collections/certifications/products/javascript-certificate
+link text: 
+Link url: https://campus.w3schools.com/collections/course-catalog/products/javascript-course
+link text: 
+Link url: https://campus.w3schools.com/collections/certifications/products/react-js-certificate
+link text: 
+Link url: https://campus.w3schools.com/collections/certifications/products/react-js-certificate
+link text: 
+Link url: https://campus.w3schools.com/collections/course-catalog/products/react-js-course
+link text: 
+Link url: https://campus.w3schools.com/collections/certifications/products/jquery-certificate
+link text: 
+Link url: https://campus.w3schools.com/collections/certifications/products/jquery-certificate
+link text: 
+Link url: https://campus.w3schools.com/collections/course-catalog/products/jquery-course
+link text: 
+Link url: https://campus.w3schools.com/products/vue-js-certification-exam
+link text: 
+Link url: https://campus.w3schools.com/products/vue-js-certification-exam
+link text: 
+Link url: https://campus.w3schools.com/collections/course-catalog/products/w3schools-full-access-course
+link text: 
+Link url: https://campus.w3schools.com/collections/certifications/products/front-end-certificate
+link text: 
+Link url: https://campus.w3schools.com/collections/certifications/products/front-end-certificate
+link text: 
+Link url: https://campus.w3schools.com/collections/course-catalog/products/front-end-course
+link text: 
+Link url: https://campus.w3schools.com/collections/certifications/products/modern-web-development-certification
+link text: 
+Link url: https://campus.w3schools.com/collections/certifications/products/modern-web-development-certification
+link text: 
+Link url: https://campus.w3schools.com/collections/course-best-sellers/products/learn-modern-web-development
+link text: 
+Link url: https://campus.w3schools.com/collections/certifications/products/web-application-development-certificates
+link text: 
+Link url: https://campus.w3schools.com/collections/certifications/products/web-application-development-certificates
+link text: 
+Link url: https://campus.w3schools.com/collections/course-best-sellers/products/web-application-development-course
+link text: 
+Link url: https://campus.w3schools.com/collections/certifications/products/web-design-certification
+link text: 
+Link url: https://campus.w3schools.com/collections/certifications/products/web-design-certification
+link text: 
+Link url: https://campus.w3schools.com/collections/course-best-sellers/products/learn-web-design
+link text: 
+Link url: https://campus.w3schools.com/collections/course-catalog/products/w3schools-full-access-course
+link text: 
+Link url: https://campus.w3schools.com/collections/certifications/products/front-end-certificate
+link text: 
+Link url: https://campus.w3schools.com/collections/certifications/products/front-end-certificate
+link text: 
+Link url: https://campus.w3schools.com/collections/course-catalog/products/front-end-course
+link text: 
+Link url: https://campus.w3schools.com/collections/certifications/products/modern-web-development-certification
+link text: 
+Link url: https://campus.w3schools.com/collections/certifications/products/modern-web-development-certification
+link text: 
+Link url: https://campus.w3schools.com/collections/course-best-sellers/products/learn-modern-web-development
+link text: 
+Link url: https://campus.w3schools.com/collections/certifications/products/web-application-development-certificates
+link text: 
+Link url: https://campus.w3schools.com/collections/certifications/products/web-application-development-certificates
+link text: 
+Link url: https://campus.w3schools.com/collections/course-best-sellers/products/web-application-development-course
+link text: 
+Link url: https://campus.w3schools.com/collections/certifications/products/web-design-certification
+link text: 
+Link url: https://campus.w3schools.com/collections/certifications/products/web-design-certification
+link text: 
+Link url: https://campus.w3schools.com/collections/course-best-sellers/products/learn-web-design
+link text: 
+Link url: https://campus.w3schools.com/collections/certifications/products/python-certificate
+link text: 
+Link url: https://campus.w3schools.com/collections/certifications/products/python-certificate
+link text: 
+Link url: https://campus.w3schools.com/collections/course-catalog/products/python-course
+link text: 
+Link url: https://campus.w3schools.com/collections/certifications/products/sql-certificate
+link text: 
+Link url: https://campus.w3schools.com/collections/certifications/products/sql-certificate
+link text: 
+Link url: https://campus.w3schools.com/collections/course-catalog/products/sql-course
+link text: 
+Link url: https://campus.w3schools.com/collections/certifications/products/mysql-certificate
+link text: 
+Link url: https://campus.w3schools.com/collections/certifications/products/mysql-certificate
+link text: 
+Link url: https://campus.w3schools.com/collections/certifications/products/php-certificate
+link text: 
+Link url: https://campus.w3schools.com/collections/certifications/products/php-certificate
+link text: 
+Link url: https://campus.w3schools.com/collections/course-catalog/products/php-course
+link text: 
+Link url: https://campus.w3schools.com/collections/certifications/products/java-certificate
+link text: 
+Link url: https://campus.w3schools.com/collections/certifications/products/java-certificate
+link text: 
+Link url: https://campus.w3schools.com/collections/course-catalog/products/java-course
+link text: 
+Link url: https://campus.w3schools.com/products/c-certification-exam
+link text: 
+Link url: https://campus.w3schools.com/products/c-certification-exam
+link text: 
+Link url: https://campus.w3schools.com/collections/certifications/products/c-certificate
+link text: 
+Link url: https://campus.w3schools.com/collections/certifications/products/c-certificate
+link text: 
+Link url: https://campus.w3schools.com/collections/course-catalog/products/c-course-1
+link text: 
+Link url: https://campus.w3schools.com/collections/certifications/products/c-certificate-1
+link text: 
+Link url: https://campus.w3schools.com/collections/certifications/products/c-certificate-1
+link text: 
+Link url: https://campus.w3schools.com/collections/course-catalog/products/c-course
+link text: 
+Link url: https://campus.w3schools.com/collections/course-catalog/products/r-course
+link text: 
+Link url: https://campus.w3schools.com/collections/course-catalog/products/r-course
+link text: 
+Link url: https://campus.w3schools.com/products/django-certification-exam
+link text: 
+Link url: https://campus.w3schools.com/products/django-certification-exam
+link text: 
+Link url: https://campus.w3schools.com/products/nodejs-certificate
+link text: 
+Link url: https://campus.w3schools.com/products/nodejs-certificate
+link text: 
+Link url: https://campus.w3schools.com/collections/certifications/products/typescript-certificate
+link text: 
+Link url: https://campus.w3schools.com/collections/certifications/products/typescript-certificate
+link text: 
+Link url: https://campus.w3schools.com/products/learn-typescript
+link text: 
+Link url: https://campus.w3schools.com/collections/certifications/products/xml-certificate
+link text: 
+Link url: https://campus.w3schools.com/collections/certifications/products/xml-certificate
+link text: 
+Link url: https://campus.w3schools.com/collections/course-catalog/products/xml-course
+link text: 
+Link url: https://campus.w3schools.com/collections/certifications/products/cyber-security-certificate
+link text: 
+Link url: https://campus.w3schools.com/collections/certifications/products/cyber-security-certificate
+link text: 
+Link url: https://campus.w3schools.com/products/cyber-security-course
+link text: 
+Link url: https://campus.w3schools.com/collections/certifications/products/accessibility-certificate
+link text: 
+Link url: https://campus.w3schools.com/collections/certifications/products/accessibility-certificate
+link text: 
+Link url: https://campus.w3schools.com/products/accessibility-course
+link text: 
+Link url: https://campus.w3schools.com/products/dsa-certification-exam
+link text: 
+Link url: https://campus.w3schools.com/products/dsa-certification-exam
+link text: 
+Link url: https://campus.w3schools.com/products/data-analytics-program
+link text: 
+Link url: https://campus.w3schools.com/products/data-analytics-program
+link text: 
+Link url: https://campus.w3schools.com/products/numpy-course
+link text: 
+Link url: https://campus.w3schools.com/products/numpy-course
+link text: 
+Link url: https://campus.w3schools.com/products/pandas-course
+link text: 
+Link url: https://campus.w3schools.com/products/pandas-course
+link text: 
+Link url: https://campus.w3schools.com/products/excel-certificate
+link text: 
+Link url: https://campus.w3schools.com/products/excel-certificate
+link text: 
+Link url: https://campus.w3schools.com/collections/course-best-sellers/products/social-media-marketing-course
+link text: 
+Link url: https://campus.w3schools.com/collections/course-best-sellers/products/social-media-marketing-course
+link text: 
+Link url: https://campus.w3schools.com
+link text: 
+Link url: /tutorials/index.php
+link text: 
+Link url: /references/index.php
+link text: 
+Link url: /spaces/index.php
+link text: 
+Link url: /exercises/index.php
+link text: 
+Link url: /quiztest/default.asp
+link text: 
+Link url: https://campus.w3schools.com/collections/certifications
+link text: 
+Link url: https://profile.w3schools.com/sign-up?redirect_url=https%3A%2F%2Fwww.w3schools.com%2Fhtml%2Fhtml_tables.asp
+link text: 
+Link url: https://profile.w3schools.com/sign-up?redirect_url=https%3A%2F%2Fwww.w3schools.com%2Fhtml%2Fhtml_tables.asp
+link text: 
+Link url: /plus/index.php
+link text: 
+Link url: /where_to_start.asp
+link text: 
+Link url: /tryit/default.asp
+link text: 
+Link url: /videos/index.php
+link text: 
+Link url: /w3css/w3css_templates.asp
+link text: 
+Link url: /spaces/index.php
+link text: 
+Link url: /spaces/index.php
+link text: 
+Link url: /howto/default.asp
+link text: 
+Link url: /w3css/default.asp
+link text: 
+Link url: /browsers/default.asp
+link text: 
+Link url: /typingspeed/default.asp
+link text: 
+Link url: /colors/colors_picker.asp
+link text: 
+Link url: /codegame/index.html
+link text: 
+Link url: https://campus.w3schools.com/pages/newsletter
+link text: 
+Link url: /academy/index.php
+link text: 
+Link url: /academy/index.php
+link text: 
+Link url: https://www.youtube.com/@w3schools
+link text: 
+Link url: https://www.linkedin.com/company/w3schools.com/
+link text: 
+Link url: https://discord.com/invite/w3schools
+link text: 
+Link url: https://www.facebook.com/w3schoolscom/
+link text: 
+Link url: https://www.instagram.com/w3schools.com_official/
+link text: 
+Link url: javascript:void(0);
+link text: HTML
+Link url: /html/default.asp
+link text: CSS
+Link url: /css/default.asp
+link text: JAVASCRIPT
+Link url: /js/default.asp
+link text: SQL
+Link url: /sql/default.asp
+link text: PYTHON
+Link url: /python/default.asp
+link text: JAVA
+Link url: /java/default.asp
+link text: PHP
+Link url: /php/default.asp
+link text: HOW TO
+Link url: /howto/default.asp
+link text: W3.CSS
+Link url: /w3css/default.asp
+link text: C
+Link url: /c/index.php
+link text: C++
+Link url: /cpp/default.asp
+link text: C#
+Link url: /cs/index.php
+link text: BOOTSTRAP
+Link url: /bootstrap/bootstrap_ver.asp
+link text: REACT
+Link url: /react/default.asp
+link text: MYSQL
+Link url: /mysql/default.asp
+link text: JQUERY
+Link url: /jquery/default.asp
+link text: EXCEL
+Link url: /excel/index.php
+link text: XML
+Link url: /xml/default.asp
+link text: DJANGO
+Link url: /django/index.php
+link text: NUMPY
+Link url: /python/numpy/default.asp
+link text: PANDAS
+Link url: /python/pandas/default.asp
+link text: NODEJS
+Link url: /nodejs/default.asp
+link text: DSA
+Link url: /dsa/index.php
+link text: TYPESCRIPT
+Link url: /typescript/index.php
+link text: ANGULAR
+Link url: /angular/default.asp
+link text: GIT
+Link url: /git/default.asp
+link text: POSTGRESQL
+Link url: /postgresql/index.php
+link text: MONGODB
+Link url: /mongodb/index.php
+link text: ASP
+Link url: /asp/default.asp
+link text: AI
+Link url: /ai/default.asp
+link text: R
+Link url: /r/default.asp
+link text: GO
+Link url: /go/index.php
+link text: KOTLIN
+Link url: /kotlin/index.php
+link text: SASS
+Link url: /sass/default.php
+link text: VUE
+Link url: /vue/index.php
+link text: GEN AI
+Link url: /gen_ai/index.php
+link text: SCIPY
+Link url: /python/scipy/index.php
+link text: CYBERSECURITY
+Link url: /cybersecurity/index.php
+link text: DATA SCIENCE
+Link url: /datascience/default.asp
+link text: INTRO TO PROGRAMMING
+Link url: /programming/index.php
+link text: 
+Link url: javascript:void(0)
+link text: HTML HOME
+Link url: default.asp
+link text: HTML Introduction
+Link url: html_intro.asp
+link text: HTML Editors
+Link url: html_editors.asp
+link text: HTML Basic
+Link url: html_basic.asp
+link text: HTML Elements
+Link url: html_elements.asp
+link text: HTML Attributes
+Link url: html_attributes.asp
+link text: HTML Headings
+Link url: html_headings.asp
+link text: HTML Paragraphs
+Link url: html_paragraphs.asp
+link text: HTML Styles
+Link url: html_styles.asp
+link text: HTML Formatting
+Link url: html_formatting.asp
+link text: HTML Quotations
+Link url: html_quotation_elements.asp
+link text: HTML Comments
+Link url: html_comments.asp
+link text: HTML Colors
+Link url: html_colors.asp
+link text: 
+Link url: html_colors.asp
+link text: 
+Link url: html_colors_rgb.asp
+link text: 
+Link url: html_colors_hex.asp
+link text: 
+Link url: html_colors_hsl.asp
+link text: HTML CSS
+Link url: html_css.asp
+link text: HTML Links
+Link url: html_links.asp
+link text: 
+Link url: html_links.asp
+link text: 
+Link url: html_links_colors.asp
+link text: 
+Link url: html_links_bookmarks.asp
+link text: HTML Images
+Link url: html_images.asp
+link text: 
+Link url: html_images.asp
+link text: 
+Link url: html_images_imagemap.asp
+link text: 
+Link url: html_images_background.asp
+link text: 
+Link url: html_images_picture.asp
+link text: HTML Favicon
+Link url: html_favicon.asp
+link text: HTML Page Title
+Link url: html_page_title.asp
+link text: HTML Tables
+Link url: html_tables.asp
+link text: HTML Tables
+Link url: html_tables.asp
+link text: Table Borders
+Link url: html_table_borders.asp
+link text: Table Sizes
+Link url: html_table_sizes.asp
+link text: Table Headers
+Link url: html_table_headers.asp
+link text: Padding & Spacing
+Link url: html_table_padding_spacing.asp
+link text: Colspan & Rowspan
+Link url: html_table_colspan_rowspan.asp
+link text: Table Styling
+Link url: html_table_styling.asp
+link text: Table Colgroup
+Link url: html_table_colgroup.asp
+link text: HTML Lists
+Link url: html_lists.asp
+link text: 
+Link url: html_lists.asp
+link text: 
+Link url: html_lists_unordered.asp
+link text: 
+Link url: html_lists_ordered.asp
+link text: 
+Link url: html_lists_other.asp
+link text: HTML Block & Inline
+Link url: html_blocks.asp
+link text: HTML Div
+Link url: html_div.asp
+link text: HTML Classes
+Link url: html_classes.asp
+link text: HTML Id
+Link url: html_id.asp
+link text: HTML Iframes
+Link url: html_iframe.asp
+link text: HTML JavaScript
+Link url: html_scripts.asp
+link text: HTML File Paths
+Link url: html_filepaths.asp
+link text: HTML Head
+Link url: html_head.asp
+link text: HTML Layout
+Link url: html_layout.asp
+link text: HTML Responsive
+Link url: html_responsive.asp
+link text: HTML Computercode
+Link url: html_computercode_elements.asp
+link text: HTML Semantics
+Link url: html5_semantic_elements.asp
+link text: HTML Style Guide
+Link url: html5_syntax.asp
+link text: HTML Entities
+Link url: html_entities.asp
+link text: HTML Symbols
+Link url: html_symbols.asp
+link text: HTML Emojis
+Link url: html_emojis.asp
+link text: HTML Charsets
+Link url: html_charset.asp
+link text: HTML URL Encode
+Link url: html_urlencode.asp
+link text: HTML vs. XHTML
+Link url: html_xhtml.asp
+link text: HTML Forms
+Link url: html_forms.asp
+link text: HTML Form Attributes
+Link url: html_forms_attributes.asp
+link text: HTML Form Elements
+Link url: html_form_elements.asp
+link text: HTML Input Types
+Link url: html_form_input_types.asp
+link text: HTML Input Attributes
+Link url: html_form_attributes.asp
+link text: Input Form Attributes
+Link url: html_form_attributes_form.asp
+link text: HTML Canvas
+Link url: html5_canvas.asp
+link text: HTML SVG
+Link url: html5_svg.asp
+link text: HTML Media
+Link url: html_media.asp
+link text: HTML Video
+Link url: html5_video.asp
+link text: HTML Audio
+Link url: html5_audio.asp
+link text: HTML Plug-ins
+Link url: html_object.asp
+link text: HTML YouTube
+Link url: html_youtube.asp
+link text: HTML Web APIs
+Link url: html5_api_whatis.asp
+link text: HTML Geolocation
+Link url: html5_geolocation.asp
+link text: HTML Drag and Drop
+Link url: html5_draganddrop.asp
+link text: HTML Web Storage
+Link url: html5_webstorage.asp
+link text: HTML Web Workers
+Link url: html5_webworkers.asp
+link text: HTML SSE
+Link url: html5_serversentevents.asp
+link text: HTML Examples
+Link url: html_examples.asp
+link text: HTML Editor
+Link url: html_editor.asp
+link text: HTML Quiz
+Link url: html_quiz.asp
+link text: HTML Exercises
+Link url: html_exercises.asp
+link text: HTML Website
+Link url: html_website.asp
+link text: HTML Syllabus
+Link url: html_syllabus.asp
+link text: HTML Study Plan
+Link url: html_study_plan.asp
+link text: HTML Interview Prep
+Link url: html_interview_prep.asp
+link text: HTML Bootcamp
+Link url: html_bootcamp.asp
+link text: HTML Certificate
+Link url: html_exam.asp
+link text: HTML Summary
+Link url: html_summary.asp
+link text: HTML Accessibility
+Link url: html_accessibility.asp
+link text: HTML Tag List
+Link url: /tags/default.asp
+link text: HTML Attributes
+Link url: /tags/ref_attributes.asp
+link text: HTML Global Attributes
+Link url: /tags/ref_standardattributes.asp
+link text: HTML Browser Support
+Link url: /tags/ref_html_browsersupport.asp
+link text: HTML Events
+Link url: /tags/ref_eventattributes.asp
+link text: HTML Colors
+Link url: /tags/ref_colornames.asp
+link text: HTML Canvas
+Link url: /tags/ref_canvas.asp
+link text: HTML Audio/Video
+Link url: /tags/ref_av_dom.asp
+link text: HTML Doctypes
+Link url: /tags/ref_html_dtd.asp
+link text: HTML Character Sets
+Link url: /tags/ref_charactersets.asp
+link text: HTML URL Encode
+Link url: /tags/ref_urlencode.asp
+link text: HTML Lang Codes
+Link url: /tags/ref_language_codes.asp
+link text: HTTP Messages
+Link url: /tags/ref_httpmessages.asp
+link text: HTTP Methods
+Link url: /tags/ref_httpmethods.asp
+link text: PX to EM Converter
+Link url: /tags/ref_pxtoemconversion.asp
+link text: Keyboard Shortcuts
+Link url: /tags/ref_keyboardshortcuts.asp
+link text: ❮ Previous
+Link url: html_page_title.asp
+link text: Next ❯
+Link url: html_table_borders.asp
+link text: Try it Yourself »
+Link url: tryit.asp?filename=tryhtml_table_intro
+link text: Try it Yourself »
+Link url: tryit.asp?filename=tryhtml_table3
+link text: Try it Yourself »
+Link url: tryit.asp?filename=tryhtml_table4
+link text: Try it Yourself »
+Link url: tryit.asp?filename=tryhtml_table5
+link text: Try it Yourself »
+Link url: tryit.asp?filename=tryhtml_table6
+link text: <table>
+Link url: /tags/tag_table.asp
+link text: <th>
+Link url: /tags/tag_th.asp
+link text: <tr>
+Link url: /tags/tag_tr.asp
+link text: <td>
+Link url: /tags/tag_td.asp
+link text: <caption>
+Link url: /tags/tag_caption.asp
+link text: <colgroup>
+Link url: /tags/tag_colgroup.asp
+link text: <col>
+Link url: /tags/tag_col.asp
+link text: <thead>
+Link url: /tags/tag_thead.asp
+link text: <tbody>
+Link url: /tags/tag_tbody.asp
+link text: <tfoot>
+Link url: /tags/tag_tfoot.asp
+link text: HTML Tag Reference
+Link url: /tags/default.asp
+link text: 
+Link url: https://youtu.be/e62D-aayveY&list=PLP9IO4UYNF0VdAajP_5pYG-jG2JRrG72s
+link text: ❮ Previous
+Link url: html_page_title.asp
+link text: Next ❯
+Link url: html_table_borders.asp
+link text: 
+Link url: /css/css_table.asp
+link text: 
+Link url: /howto/howto_js_filter_table.asp
+link text: 
+Link url: /howto/howto_js_sort_table.asp
+link text: 
+Link url: /howto/howto_css_table_responsive.asp
+link text: 
+Link url: /howto/howto_css_table_zebra.asp
+link text: 
+Link url: https://profile.w3schools.com/log-in?redirect_url=https%3A%2F%2Fwww.w3schools.com%2Fhtml%2Fhtml_tables.asp
+link text: Log in
+Link url: https://profile.w3schools.com/log-in?redirect_url=https%3A%2F%2Fpathfinder.w3schools.com&origin=https%3A%2F%2Fwww.w3schools.com%2Fhtml%2Fhtml_tables.asp
+link text: Sign Up
+Link url: https://profile.w3schools.com/sign-up?redirect_url=https%3A%2F%2Fpathfinder.w3schools.com&origin=https%3A%2F%2Fwww.w3schools.com%2Fhtml%2Fhtml_tables.asp
+link text: 
+Link url: https://campus.w3schools.com/collections/course-catalog/products/html-course
+link text: COLOR PICKER
+Link url: /colors/colors_picker.asp
+link text: 
+Link url: /colors/colors_picker.asp
+link text: 
+Link url: https://www.youtube.com/@w3schools
+link text: 
+Link url: https://www.linkedin.com/company/w3schools.com/
+link text: 
+Link url: https://discord.com/invite/w3schools
+link text: 
+Link url: https://www.facebook.com/w3schoolscom/
+link text: 
+Link url: https://www.instagram.com/w3schools.com_official/
+link text: 
+Link url: //www.w3schools.com
+link text: PLUS
+Link url: /plus/index.php
+link text: SPACES
+Link url: /spaces/index.php
+link text: GET CERTIFIED
+Link url: https://campus.w3schools.com/collections/certifications
+link text: FOR TEACHERS
+Link url: /academy/index.php
+link text: FOR BUSINESS
+Link url: /academy/index.php
+link text: CONTACT US
+Link url: javascript:void(0);
+link text: HTML Tutorial
+Link url: /html/default.asp
+link text: CSS Tutorial
+Link url: /css/default.asp
+link text: JavaScript Tutorial
+Link url: /js/default.asp
+link text: How To Tutorial
+Link url: /howto/default.asp
+link text: SQL Tutorial
+Link url: /sql/default.asp
+link text: Python Tutorial
+Link url: /python/default.asp
+link text: W3.CSS Tutorial
+Link url: /w3css/default.asp
+link text: Bootstrap Tutorial
+Link url: /bootstrap/bootstrap_ver.asp
+link text: PHP Tutorial
+Link url: /php/default.asp
+link text: Java Tutorial
+Link url: /java/default.asp
+link text: C++ Tutorial
+Link url: /cpp/default.asp
+link text: jQuery Tutorial
+Link url: /jquery/default.asp
+link text: HTML Reference
+Link url: /tags/default.asp
+link text: CSS Reference
+Link url: /cssref/index.php
+link text: JavaScript Reference
+Link url: /jsref/default.asp
+link text: SQL Reference
+Link url: /sql/sql_ref_keywords.asp
+link text: Python Reference
+Link url: /python/python_reference.asp
+link text: W3.CSS Reference
+Link url: /w3css/w3css_references.asp
+link text: Bootstrap Reference
+Link url: /bootstrap/bootstrap_ref_all_classes.asp
+link text: PHP Reference
+Link url: /php/php_ref_overview.asp
+link text: HTML Colors
+Link url: /colors/colors_names.asp
+link text: Java Reference
+Link url: /java/java_ref_keywords.asp
+link text: Angular Reference
+Link url: /angular/angular_ref_directives.asp
+link text: jQuery Reference
+Link url: /jquery/jquery_ref_overview.asp
+link text: HTML Examples
+Link url: /html/html_examples.asp
+link text: CSS Examples
+Link url: /css/css_examples.asp
+link text: JavaScript Examples
+Link url: /js/js_examples.asp
+link text: How To Examples
+Link url: /howto/default.asp
+link text: SQL Examples
+Link url: /sql/sql_examples.asp
+link text: Python Examples
+Link url: /python/python_examples.asp
+link text: W3.CSS Examples
+Link url: /w3css/w3css_examples.asp
+link text: Bootstrap Examples
+Link url: /bootstrap/bootstrap_examples.asp
+link text: PHP Examples
+Link url: /php/php_examples.asp
+link text: Java Examples
+Link url: /java/java_examples.asp
+link text: XML Examples
+Link url: /xml/xml_examples.asp
+link text: jQuery Examples
+Link url: /jquery/jquery_examples.asp
+link text: Get Certified
+Link url: https://campus.w3schools.com/collections/course-catalog
+link text: HTML Certificate
+Link url: https://campus.w3schools.com/collections/certifications/products/html-certificate
+link text: CSS Certificate
+Link url: https://campus.w3schools.com/collections/certifications/products/css-certificate
+link text: JavaScript Certificate
+Link url: https://campus.w3schools.com/collections/certifications/products/javascript-certificate
+link text: Front End Certificate
+Link url: https://campus.w3schools.com/collections/certifications/products/front-end-certificate
+link text: SQL Certificate
+Link url: https://campus.w3schools.com/collections/certifications/products/sql-certificate
+link text: Python Certificate
+Link url: https://campus.w3schools.com/collections/certifications/products/python-certificate
+link text: PHP Certificate
+Link url: https://campus.w3schools.com/collections/certifications/products/php-certificate
+link text: jQuery Certificate
+Link url: https://campus.w3schools.com/collections/certifications/products/jquery-certificate
+link text: Java Certificate
+Link url: https://campus.w3schools.com/collections/certifications/products/java-certificate
+link text: C++ Certificate
+Link url: https://campus.w3schools.com/collections/certifications/products/c-certificate
+link text: C# Certificate
+Link url: https://campus.w3schools.com/collections/certifications/products/c-certificate-1
+link text: XML Certificate
+Link url: https://campus.w3schools.com/collections/certifications/products/xml-certificate
+link text: 
+Link url: https://www.youtube.com/@w3schools
+link text: 
+Link url: https://www.linkedin.com/company/w3schools.com/
+link text: 
+Link url: https://discord.com/invite/w3schools
+link text: 
+Link url: https://www.facebook.com/w3schoolscom/
+link text: 
+Link url: https://www.instagram.com/w3schools.com_official/
+link text: FORUM
+Link url: /forum/default.asp
+link text: ABOUT
+Link url: /about/default.asp
+link text: ACADEMY
+Link url: /academy/index.php
+link text: terms of use
+Link url: /about/about_copyright.asp
+link text: cookie and privacy policy
+Link url: /about/about_privacy.asp
+link text: Copyright 1999-2025
+Link url: /about/about_copyright.asp
+link text: W3Schools is Powered by W3.CSS
+Link url: //www.w3schools.com/w3css/default.asp
